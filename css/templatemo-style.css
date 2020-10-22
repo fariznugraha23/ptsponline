@@ -288,15 +288,17 @@ p {
 }
 
 #about .service-item h3 {
-	margin-bottom: 30px;
+	/* margin-bottom: 30px; */
 	margin-top: 45px;
+	font-style: bold;
 	font-size: 26px;
 	font-weight: 500;
 	color: #fff;
 }
 #about .service-item h4 {
-	margin-bottom: 30px;
-	margin-top: 45px;
+	/* margin-bottom: 30px;
+	margin-top: 45px; */
+	font-style: italic;
 	font-size: 17px;
 	font-weight: 500;
 	color: #fff;
@@ -388,7 +390,7 @@ p {
 
 
 #testimonial {
-	background-color: #f7c552;
+	background-color: #9a9a9a;
 	text-align: center;
 	padding: 100px 0px;
 }
